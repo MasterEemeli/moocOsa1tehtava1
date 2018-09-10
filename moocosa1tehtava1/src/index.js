@@ -41,7 +41,7 @@ const App = () =>{
   return (
     <div>
     <Otsikko kurssi={kurssi}/>
-    <Sisalto osa1={osa1}tehtavia1={tehtavia1}osa2={osa2}tehtavia2={tehtavia2}osa3={osa3}tehtavia3={tehtavia3}/>
+  
 
       </div>
 
