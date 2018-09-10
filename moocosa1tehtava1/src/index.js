@@ -37,9 +37,6 @@ const App = () =>{
   const tehtavia2 = 7;
   const osa3 = 'Komponenttien tila'
   const tehtavia3 = 14;
-  const perse = 'peppu'
-
-
 
   return (
     <div>
